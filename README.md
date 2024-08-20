@@ -11,7 +11,7 @@ Lifelong Learner, currently working as Fullstack Developer at PT Zona Karya Nusa
     <img src="https://img.shields.io/badge/SQL%20Editor-Data%20Grip%20Code-blue?&logo=Data%20Grip%20code&logoColor=red" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
+### <summary><strong>About Me!</strong></summary>
 <p>
     - :keyboard: I’m currently learning Any Programing Language. </br>
     - :speech_balloon: Ask me about anything.</br>
