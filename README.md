@@ -3,7 +3,7 @@ Lifelong Learner, currently working as Fullstack Developer at PT Zona Karya Nusa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-### <summary><strong>Tools:</strong></summary>
+### <summary><strong>Weapons:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Php%20Strom%20Code-blue?&logo=Php%20Strom%20code&logoColor=blue" />
 </p>
