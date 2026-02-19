@@ -7,6 +7,11 @@ Lifelong Learner, currently working as Fullstack Developer at PT Zona Karya Nusa
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Php%20Strom%20Code-blue?&logo=Php%20Strom%20code&logoColor=blue" />
 </p>
+
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Web%20Strom%20Code-blue?&logo=Php%20Strom%20code&logoColor=blue" />
+</p>
+
 <p>
     <img src="https://img.shields.io/badge/SQL%20Editor-Data%20Grip%20Code-blue?&logo=Data%20Grip%20code&logoColor=red" />
 </p>
