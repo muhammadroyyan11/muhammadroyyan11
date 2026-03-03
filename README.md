@@ -1,7 +1,7 @@
 # Hi 👋 I'm Muhammad Royyan Zamzami
 **Fullstack Developer | Web & Mobile Engineer**
 
-I build scalable business applications — from high‑performance backend APIs to real‑time dashboards and mobile apps.
+I build scalable business applications — from high-performance backend APIs to real-time dashboards and mobile apps.
 
 ---
 
@@ -9,7 +9,7 @@ I build scalable business applications — from high‑performance backend APIs 
 - 💼 Fullstack Developer at **PT Zona Karya Nusantara**
 - 🧠 Focused on performance, scalability & clean architecture
 - 🏗 Experienced building retail & operational systems
-- 📱 Also develop cross‑platform mobile applications
+- 📱 Also develop cross-platform mobile applications
 - 🎯 Interested in system design & optimization
 
 ---
@@ -33,7 +33,7 @@ I build scalable business applications — from high‑performance backend APIs 
 ### Mobile
 - React Native (Android & iOS)
 - API Integration
-- Offline‑First Sync Strategy
+- Offline-First Sync Strategy
 
 ### Database & Infrastructure
 - MySQL / MariaDB
@@ -60,21 +60,49 @@ I build scalable business applications — from high‑performance backend APIs 
 - Query tuning & indexing strategy
 - Background processing & queues
 - Clean modular architecture
-- Real‑time data processing
+- Real-time data processing
+
+---
+
+# 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadroyyan11&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadroyyan11&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammadroyyan11&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadroyyan11&theme=tokyo-night)
+
+---
+
+## 📈 GitHub Insights
+- Active developer since **2020**
+- Built **100+ repositories**
+- Strong focus on **backend architecture**
+- Specialized in **business system development**
+
+---
+
+## 🚀 Featured Projects
+- Retail POS System
+- Inventory & Warehouse System
+- Marketplace Sync Engine
+- Mobile Stock Checking App
+- Business Dashboard Analytics
 
 ---
 
 ## 🌐 Contact Me
-📧 Email: royyanmz87@gmail.com  
-📸 Instagram: https://www.instagram.com/saya.royyan/
+📧 Email: **royyanmz87@gmail.com**  
+📸 Instagram: **https://www.instagram.com/saya.royyan/**
 
 ---
 
-## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat)
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadroyyan11&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
 ## ✨ Motto
 > Build systems that still run smoothly when users increase — not systems that only work during testing.
-
