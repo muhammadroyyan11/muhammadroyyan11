@@ -66,11 +66,7 @@ I build scalable business applications — from high-performance backend APIs to
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadroyyan11&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadroyyan11&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=muhammadroyyan11&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadroyyan11&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadroyyan11&theme=tokyo-night)
 
