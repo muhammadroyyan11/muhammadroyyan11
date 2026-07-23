@@ -5,6 +5,11 @@ I build scalable business applications — from high-performance backend APIs to
 
 ---
 
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 ## 🚀 About Me
 - 💼 Fullstack Developer at **PT Zona Karya Nusantara**
 - 🧠 Focused on performance, scalability & clean architecture
@@ -93,10 +98,6 @@ I build scalable business applications — from high-performance backend APIs to
 📧 Email: **royyanmz87@gmail.com**  
 📸 Instagram: **https://www.instagram.com/saya.royyan/**
 
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
